@@ -1,3 +1,9 @@
+
+##### Author : Amir Shokri
+##### github link : https://github.com/amirshnll/Internet-Advertisements
+##### dataset link : http://archive.ics.uci.edu/ml/datasets/Internet+Advertisements
+##### email : amirsh.nll@gmail.com
+
 ```python
 import numpy as np 
 import pandas as pd 
